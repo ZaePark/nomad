@@ -1,2 +1,11 @@
+canvas {
+    width: 800px;
+    height: 800px;
+    border: 5px solid black;
+}
+
 body {
-    background-color: rgb(189, 152, 146);}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
